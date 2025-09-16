@@ -1,1 +1,1 @@
-Created HelloWorld mobile application for ios and android
+Created HelloWorld mobile application for ios and android. Even this works on the web
